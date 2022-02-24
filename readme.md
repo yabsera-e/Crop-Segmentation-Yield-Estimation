@@ -1,2 +1,1 @@
-djlkjlakjldjl
-
+The project was designed to develop a deep learning based convolutional neural network(CNN) model using satellite imageries of farmlands for the identification of crop types from images through a semantic segmentation task.
